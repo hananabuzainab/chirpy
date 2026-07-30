@@ -294,14 +294,3 @@ Through this project, I practiced:
 * Applying authorization rules
 * Handling webhooks
 * Writing clean backend architecture
-
----
-
-# 👩‍💻 Author
-
-Hanan Abu Zainab
-
-Computer Systems Engineering Student
-
-GitHub:
-https://github.com/hananabuzainab
